@@ -1,8 +1,7 @@
+#import libraries
 import math
-
 import keras as k
 import tensorflow as tf
-
 import dataset
 
 print('Building model...')
